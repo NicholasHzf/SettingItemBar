@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SettingItemBarLibrary</string>
+
+    <string name="nav_bar_title_default">默认标题</string>
+    <string name="nav_bar_info_default">默认信息</string>
+
+</resources>
